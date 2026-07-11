@@ -1,317 +1,288 @@
-[7/11/2026 8:01 PM] Punit Chapaneriya: <!-- ========================= HEADER ========================= -->
+Act as the world's #1 GitHub Profile Designer, Creative Director, UI/UX Engineer and Cyberpunk Brand Designer.
 
-<div align="center">
+DO NOT create a normal GitHub README.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:5B21B6,30:7C3AED,70:8B5CF6,100:4F46E5&text=Punit%20Raval&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Flutter%20Developer%20•%20Android%20Developer%20•%20Cyber%20Security%20Enthusiast&descAlignY=62"/>
+Create an ORIGINAL masterpiece that looks like an Elite Hacker Dashboard.
 
-<br>
+Theme:
+• Black Background (#050505)
+• Neon Purple
+• Neon Green
+• Cyan
+• Glassmorphism
+• Cyberpunk
+• Matrix
+• Terminal UI
+• Zero Copy Design
+• Premium Enterprise
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Flutter+Developer;Android+Application+Developer;Cyber+Security+Enthusiast;Performance+Marketing+Learner;Open+Source+Contributor;Always+Learning+New+Technologies"/>
+The profile must NOT look like any existing GitHub profile.
 
-<br><br>
+========================
 
-![](https://img.shields.io/badge/MCA-Student-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/BCA-Graduate-5B21B6?style=for-the-badge)
-![](https://img.shields.io/badge/Flutter-Developer-02569B?style=for-the-badge&logo=flutter)
-![](https://img.shields.io/badge/Cyber-Security-red?style=for-the-badge)
+HEADER
 
-<br>
+Create a huge animated hacker banner.
 
-![](https://img.shields.io/badge/📍-Surat,Gujarat,India-6D28D9?style=for-the-badge)
+Include
 
-<br><br>
+• Capsule Render
+• Digital Circuit Borders
+• Matrix Rain
+• Cyber Grid
+• Terminal Cursor
+• Neon Glow
 
-<a href="mailto:punitraval6553@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+Typing Animation
 
-<a href="https://www.linkedin.com/in/punit-raval-336449418">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+> INITIALIZING...
+> ACCESS GRANTED
+> WELCOME PUNIT RAVAL
+> FLUTTER DEVELOPER
+> CYBER SECURITY
+> ETHICAL HACKING
+> ANDROID DEVELOPER
 
-<a href="https://github.com/Punit6513">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
+========================
 
-</div>
+PROFILE CARD
 
----
+Left Side
 
-# 💫 About Me
+Circular Avatar with Neon Ring
 
-I'm Punit Raval, an aspiring Software Engineer passionate about building modern mobile applications, exploring Cyber Security, and continuously improving my development skills.
+Terminal Style
 
-Currently pursuing Master of Computer Applications (MCA) while expanding my expertise in Flutter, Android Development, Networking, Ethical Hacking, Cloud Technologies, and modern software engineering practices.
+> whoami
 
-I enjoy solving real-world problems through clean architecture, scalable applications, and secure software design.
+Punit Raval
 
----
+Flutter Developer
 
-## 🚀 Open To
+Cyber Security Enthusiast
 
-- Flutter Development
-- Android Development
-- Software Engineering
-- Cyber Security
-- Ethical Hacking
-- Performance Marketing
-- Open Source Collaboration
-- Internship Opportunities
-- Full-Time Opportunities
+Android Developer
 
----
+Location
 
-# ⚡ Tech Stack
+Surat Gujarat India
 
-## 👨‍💻 Programming Languages
+========================
 
-<p align="center">
+STATUS PANEL
 
-<img src="https://skillicons.dev/icons?i=dart,c,cpp,java"/>
+System Status
 
-</p>
+PASSION █████████ 100%
 
----
+LEARNING █████████ 100%
 
-## 📱 Mobile Development
+SECURITY █████████ 100%
 
-<p align="center">
+CREATIVITY █████████ 100%
 
-<img src="https://skillicons.dev/icons?i=flutter,androidstudio,firebase"/>
+========================
 
-</p>
+TECH STACK
 
----
+Display every technology inside futuristic glowing cards.
 
-## 🌐 Frontend
+Flutter
 
-<p align="center">
+Dart
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap"/>
+Android
 
-</p>
+Firebase
 
----
+Java
 
-## 🗄 Backend & Database
+Git
 
-<p align="center">
+GitHub
 
-<img src="https://skillicons.dev/icons?i=mysql,firebase"/>
+Linux
 
-</p>
+MySQL
 
----
+HTML
 
-## ☁️ Cloud • DevOps • Tools
+CSS
 
-<p align="center">
+Bootstrap
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma"/>
+VS Code
 
-</p>
+Cyber Security
 
----
+Networking
 
-# 🤖 AI • Cyber Security Expertise
+Kali Linux
 
-| Domain | Proficiency | Details |
-|---------|------------|---------|
-| Flutter Development | ⭐⭐⭐⭐☆ | Cross-platform Mobile Apps |
-| Android Development | ⭐⭐⭐⭐☆ | Native & Flutter Apps |
-| Cyber Security | ⭐⭐⭐☆☆ | Networking, Security Fundamentals |
-| Ethical Hacking | ⭐⭐⭐☆☆ | Bootcamp Certified |
-| Performance Marketing | ⭐⭐⭐☆☆ | Digital Campaign Basics |
-| Git & GitHub | ⭐⭐⭐⭐☆ | Version Control |
-| Firebase | ⭐⭐⭐☆☆ | Authentication & Database |
-| UI Development | ⭐⭐⭐⭐☆ | Responsive Mobile UI |
+Wireshark
 
----
+Burp Suite
 
-## 🎯 Professional Goals
+Nmap
 
-- Build production-ready Flutter applications.
-- Learn DevOps & Cloud Engineering.
-- Master Cyber Security & Ethical Hacking.
-- Contribute to Open Source.
-- Become a Software Engineer in a top product company.
-- Continuously improve coding and problem-solving skills.
+========================
 
----
+HACKER TERMINAL
 
-<div align="center">
+Create a fake Linux terminal
 
-### *"Building secure, scalable, and impactful software—one project at a time."*
+$ whoami
 
-</div>
-[7/11/2026 8:01 PM] Punit Chapaneriya: ---
+Punit Raval
 
-# 🚀 Featured Projects
+$ skills
 
-<details>
-<summary><b>📱 Flutter Mobile Application</b></summary>
+Flutter
 
-### Overview
+Android
 
-Developed a cross-platform Flutter application with a strong focus on performance, responsive UI, and clean architecture.
+Cyber Security
 
-| Category | Details |
-|----------|---------|
-| Technology | Flutter, Dart |
-| Platform | Android & iOS |
-| Architecture | Clean UI Structure |
-| Performance | Optimized Rendering |
-| Security | Input Validation |
-| Repository | Coming Soon |
+Ethical Hacking
 
-### Highlights
+$ current_focus
 
-- Responsive Mobile UI
-- Cross-platform Development
-- State Management
-- Firebase Ready Architecture
-- Clean Code Practices
-- Performance Optimization
+Building Secure Mobile Apps
 
-</details>
+Learning DevSecOps
 
----
+Preparing for Product Companies
 
-<details>
-<summary><b>🛡️ Ethical Hacking & Cyber Security Lab</b></summary>
+========================
 
-### Overview
+FEATURED PROJECTS
 
-Built a personal cybersecurity learning environment to practice networking, ethical hacking concepts, and security fundamentals.
+Display projects inside futuristic cyber cards
 
-| Category | Details |
-|----------|---------|
-| Domain | Cyber Security |
-| Tools | Kali Linux, Networking Tools |
-| Focus | Ethical Hacking |
-| Security | Secure Testing Environment |
-| Repository | Private |
+Glow Borders
 
-### Highlights
+Hover Effect
 
-- Networking Fundamentals
-- Linux Commands
-- Security Concepts
-- Vulnerability Assessment Basics
-- Ethical Hacking Practice
-- Cyber Security Learning
+Repository Buttons
 
-</details>
+Technology Chips
 
----
+========================
 
-<details>
-<summary><b>📈 Performance Marketing Portfolio</b></summary>
+CYBER SECURITY SECTION
 
-### Overview
+Name
 
-Learning digital marketing strategies with a focus on campaign optimization and audience engagement.
+Digital Arsenal
 
-| Category | Details |
-|----------|---------|
-| Platform | Social Media |
-| Marketing | Performance Marketing |
-| Analytics | Campaign Monitoring |
-| Goal | Business Growth |
+Include
 
-### Highlights
+Network Security
 
-- Campaign Optimization
-- Audience Analysis
-- Digital Branding
-- Marketing Strategy
+OWASP
 
-</details>
+Ethical Hacking
 
----
+Android Security
 
-# 💼 Experience
+Threat Hunting
 
-## Flutter Developer Intern
+SOC
 
-Software Development Internship
+Linux
 
-📅 April 2024 – June 2024
+========================
 
-### Responsibilities
+GITHUB ANALYTICS
 
-- Developed Flutter mobile applications.
-- Built responsive user interfaces.
-- Worked on Android application development.
-- Improved application performance.
-- Participated in debugging and testing.
-- Collaborated on software development tasks.
-- Applied clean coding practices.
-- Gained real-world software development experience.
+Create futuristic dashboard
 
-Skills Used
+GitHub Stats
 
-Flutter Dart Android Git Problem Solving
+Top Languages
 
----
+Streak
 
-# 🎓 Education
+Contribution Graph
 
-| Degree | Institute | Status |
-|---------|-----------|--------|
-| Master of Computer Applications (MCA) | Uka Tarsadia University (SRIMCA) | Pursuing |
-| Bachelor of Computer Applications (BCA) | Veer Narmad South Gujarat University | Completed |
+Metrics
 
----
+GitHub Trophies
 
-# 🏆 Achievements
+Activity Timeline
 
-| Recognition | Details |
-|--------------|---------|
-| Flutter Internship | Successfully completed Flutter internship |
-| Mobile Development | Built Flutter applications |
-| Continuous Learner | Actively learning Cyber Security |
-| Software Development | Practical project experience |
-| Team Collaboration | Worked in development environment |
+========================
 
----
+SNAKE SECTION
 
-# 📜 Certifications
+DO NOT use the default snake.
 
-## Flutter
+Create a custom AI Cyber Snake.
 
-![](https://img.shields.io/badge/Flutter-Certified-02569B?style=for-the-badge&logo=flutter)
+Requirements
 
----
+Neon Purple Body
 
-## Cyber Security
+Neon Green Eyes
 
-![](https://img.shields.io/badge/Cyber_Security-Certified-red?style=for-the-badge)
+Cyan Trail
 
----
+Glowing Head
 
-## Ethical Hacking
+Digital Pixels
 
-![](https://img.shields.io/badge/Ethical_Hacking-Bootcamp-success?style=for-the-badge)
+Particle Effects
 
----
+Circuit Pattern
 
-# 💻 Coding Profiles
+Matrix Background
 
-<div align="center">
+The snake should look like an AI Robot Snake eating GitHub contributions.
 
-<a href="https://github.com/Punit6513">
-<img src="https://img.shields.io/badge/GitHub-Punit6513-181717?style=for-the-badge&logo=github"/>
-</a>
+Section Title
 
-<!-- Add your profiles when available -->
+"NEURAL CONTRIBUTION MATRIX"
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Coming_Soon-FFA116?style=for-the-badge&logo=leetcode)]()
+========================
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-Coming_Soon-00EA64?style=for-the-badge&logo=hackerrank)]()
+FOOTER
 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Coming_Soon-2F8D46?style=for-the-badge&logo=geeksforgeeks)]()
+Animated Circuit Board
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-Coming_Soon-5B4638?style=for-the-badge&logo=codechef)]()
+Digital Footer
 
-</div>
+Neon Quote
+
+"Code Secure • Think Different • Build the Future"
+
+========================
+
+Rules
+
+❌ No copied layouts
+
+❌ No generic README
+
+❌ No boring markdown
+
+✅ Premium UI
+
+✅ Hacker Dashboard
+
+✅ Cyberpunk
+
+✅ Matrix
+
+✅ Enterprise Quality
+
+✅ Glassmorphism
+
+✅ Neon Animations
+
+✅ SVG Widgets
+
+✅ GitHub Actions
+
+✅ Responsive
+
+Output ONLY production-ready README.md.
