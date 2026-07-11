@@ -53,7 +53,7 @@ I enjoy solving real-world problems through clean architecture, scalable applica
 - Android Development
 - Software Engineering
 - Cyber Security
-- Ethical Hacking
+- Ethical Hacking SOC L1 
 - Performance Marketing
 - Open Source Collaboration
 - Internship Opportunities
